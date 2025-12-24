@@ -1,12 +1,14 @@
-# Hi, I'm veiston
+# 🦕 Hi, I'm Veiston
 
-I build software, local‑first AI, 3D, and robotics. I like tinkering with small, useful things and keeping code clear and reliable.
+I build software, local‑first AI, 3D, and robotics. I like tinkering with small, useful things and keeping things simple.
+I love to create projects to help me in my own life, be it watering my plants automatically or doing quantitive financial analysis for smarter market decisions.
 
-## Education
+### 🎓 Academic stuff
+**Metropolia University of Applied Sciences**
+*B.Eng in Information and Communication Technology* (Jan 2025 - Present)
+Focusing on translating theoretical knowledge into production-grade software.
 
-- Metropolia University of Applied Sciences - Bachelor's in Information and Communication Technology (01/2025 ->)
-
-## Skills
+## 🧠 Skills
 
 - OS: Windows expert; Debian/Ubuntu comfortable
 - Programming: C++ (Arduino), TypeScript/JavaScript, Python, SQL
@@ -14,12 +16,13 @@ I build software, local‑first AI, 3D, and robotics. I like tinkering with smal
 - Robotics: Arduino design, build, and C++ firmware
 - Full stack: from UI to backend
 
-## Now building
+## 🙋‍♂️ Currently working on
 
-- Better full stack patterns and clean deploys
-- Arduino robotics prototypes and control loops
-- Blender scenes for technical visualization
+- Better full stack patterns and clean deploys with Postgres SQL / NextJS / FastAPI / Vercel
+- Ollama / Gemini AI implementations to boost user experience
+- Arduino robotics prototypes
+- Blender for high level visualization
 
-## Contact me!
+## 📫 Contact me!
 
 - Instagram: @veliveiston
