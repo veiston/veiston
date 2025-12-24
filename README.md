@@ -1,30 +1,32 @@
 # 🦕 Hi, I'm Veiston
 
-I build software, local‑first AI, 3D, and robotics. I like tinkering with small, useful things and keeping things simple.
-I love to create projects to help me in my own life, be it watering my plants automatically or doing quantitive financial analysis for smarter market decisions.
+I build local‑first AI, 3D, Full-stack web app -projects and clear software tools. I like tinkering with small, useful things and keeping things simple.
+I love to create projects to help me in my own life, be it watering my plants 🌱 automatically or doing quantitive financial analysis for smarter market decisions.
 
 ## 🎓 Academic stuff
 
 **Metropolia University of Applied Sciences**
-*B.Eng in Information and Communication Technology* (Jan 2025 - Present)
-Focusing on translating theoretical knowledge into production-grade software.
+*Bachelor of Engineering in Information and Communication Technology - ICT* (Jan 2025 – Present)
+Focused on learning to produce production-grade systems and applying ICT theory to real-world challenges.
 
 ## 🧠 Skills
 
 | Category | More details |
 |----------|---------|
 | **Programming** | Python, TypeScript/JavaScript, C++ (Arduino), SQL |
-| **Web & Backend** | Next.js, Vercel, FastAPI, Postgres |
-| **3D & Visualization** | Blender (modeling, animation, simulation) |
+| **AI** | Implementing local-first intelligence via Ollama and cloud-scale capabilities through Gemini to create efficient, failsafe context-aware user experiences. |
+| **Frontend & Backend** | Next.js, Vercel, FastAPI, Postgres |
+| **3D & Visualization & Cad** | Blender, TinkerCAD (modeling, animation, simulation) |
 | **Robotics & Embedded** | Arduino hardware design, C++ firmware, microcontrollers |
 
 ## 🙋‍♂️ Currently working on
 
-- Better full stack patterns and clean deploys with Postgres SQL / NextJS / FastAPI / Vercel
+- Better full stack and clean deploys with PostgreSQL / NextJS / FastAPI / Vercel
 - Ollama / Gemini AI implementations to boost the user experience
 - Arduino robotics prototypes
 - Blender for high level visualization
 
-## 📫 Contact me!
+## 📫 Let's connect!
 
-- Instagram: @veliveiston
+- [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:veiston@protonmail.com)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/veikka-liukkonen-74730a269)
