@@ -1,6 +1,6 @@
-# 🦕 Hi, I'm Veiston
+# 🦕 Hi, I'm Veikka
 
-I build local‑first AI, 3D, Full-stack web app -projects and clear software tools. I like tinkering with small, useful things and keeping things simple.
+I build AI and Full-stack web app -projects and clear software tools. I like tinkering with small, useful things and keeping things simple.
 I love to create projects to help me in my own life, be it watering my plants 🌱 automatically or doing quantitive financial analysis for smarter market decisions.
 
 ## 🎓 Academic stuff
