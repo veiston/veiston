@@ -1,6 +1,6 @@
 # 🦕 Hi, I'm Veikka
 
-I build AI and Full-stack web app -projects and clear software tools. I like tinkering with small, useful things and keeping things simple.
+I build AI and Full-stack web app -projects and hobby software. I like tinkering with purposeful, useful things and keeping things simple.
 I love to create projects to help me in my own life, be it watering my plants 🌱 automatically or doing quantitive financial analysis for smarter market decisions.
 
 ## 🎓 Academic stuff
@@ -13,18 +13,18 @@ Focused on learning to produce production-grade systems and applying ICT theory 
 
 | Category | More details |
 |----------|---------|
-| **Programming** | Python, TypeScript/JavaScript, C++ (Arduino), SQL |
-| **AI** | Implementing local-first intelligence via Ollama and cloud-scale capabilities through Gemini to create efficient, failsafe context-aware user experiences. |
+| **Programming** | Python, Java, TypeScript/JavaScript, C++ (Arduino), SQL |
+| **AI** | Implementing local-first AI via Ollama and larger capabilities through Gemini. |
 | **Frontend & Backend** | Next.js, Vercel, FastAPI, Postgres |
 | **3D & Visualization & Cad** | Blender, TinkerCAD (modeling, animation, simulation) |
 | **Robotics & Embedded** | Arduino hardware design, C++ firmware, microcontrollers |
 
 ## 🙋‍♂️ Currently working on
 
-- Better full stack and clean deploys with PostgreSQL / NextJS / FastAPI / Vercel
-- Ollama / Gemini AI implementations to boost the user experience
+- Better full stack deploys with PostgreSQL / NextJS / FastAPI / Vercel
+- Ollama / Gemini AI implementations for the buzz
 - Arduino robotics prototypes
-- Blender for high level visualization
+- Blender for 3D modeling and simulation
 
 ## 📫 Let's connect!
 
