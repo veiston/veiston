@@ -3,6 +3,8 @@
 I build AI and Full-stack web app -projects and hobby software. I like tinkering with purposeful, useful things and keeping things simple.
 I love to create projects to help me in my own life, be it watering my plants 🌱 automatically or doing quantitive financial analysis for smarter market decisions.
 
+<img width="3648" height="2736" alt="dist" src="https://github.com/user-attachments/assets/da20535c-47cb-4b90-92c0-93bb2f6c3a94" />
+
 ## Academic stuff
 
 **Metropolia University of Applied Sciences**
