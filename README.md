@@ -3,8 +3,7 @@
 I build AI and Full-stack web app -projects and hobby software. I like tinkering with purposeful, useful things and keeping things simple.
 I love to create projects to help me in my own life, be it watering my plants 🌱 automatically or doing quantitive financial analysis for smarter market decisions.
 
-![WhatsApp Image 2026-02-19 at 12 37 48](https://github.com/user-attachments/assets/7b330eb4-8ca2-4768-8b4a-0282050d5e03)
-
+<img width="3648" height="2736" alt="Nimetön" src="https://github.com/user-attachments/assets/17ea005d-d586-48bb-bb2f-627f3a7439b8" />
 
 ## Academic stuff
 
